@@ -35,6 +35,10 @@ function draw() {
     textSize(40);
     text("TREASURE UNLOCKED",250, 200);
   }
+ 
+ fill(0);
+ textSize(20);
+ text("Write in Capital Letters", 10,10);
 
   drawSprites()
 }
